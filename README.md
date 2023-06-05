@@ -1,8 +1,8 @@
-# Philit📜:
+# Kant-ai📜:
 
 this program that will generate philosophical **shananigans**
 
-trained on r/philosophy posts
+trained on kant philosophy
 
 ## Run
 
