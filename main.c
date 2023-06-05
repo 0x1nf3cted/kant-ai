@@ -106,7 +106,7 @@ void generateText(struct word_node *start, int numWords)
 
 int main(int argc, char const *argv[])
 {
-    FILE *file = fopen("training_data.txt", "r");
+    FILE *file = fopen("kant.txt", "r");
     if (file == NULL)
     {
         printf("Error opening file.\n");
