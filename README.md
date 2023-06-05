@@ -16,7 +16,7 @@ trained on r/philosophy posts
 
 ## Todo
 
--   []  clean text before storing it
+-   [ ]  clean text before storing it
 
 
 ## Contribution:
