@@ -16,7 +16,7 @@ trained on kant philosophy
 
 ## Todo
 
--   []  clean text before storing it
+-   [ ]  clean text before storing it
 
 
 ## Contribution:
